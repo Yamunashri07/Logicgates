@@ -2,7 +2,7 @@
 
 ### REG NO: 24003856
 
-### EXPERIMENT 1: Study of logic gates
+# EXPERIMENT 1: Study of logic gates
 
 # AIM
 
